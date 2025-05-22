@@ -16,7 +16,7 @@ Euclidean/other distance metrics
 
 📄 Outputs results as a clean, structured PDF report
 
-🧰 Technologies Used
+# 🧰 Technologies Used
 Python 3.x
 
 OpenCV (opencv-python-headless)
@@ -53,7 +53,7 @@ Compare them using SSIM
 Generate a PDF report with results
 
 
-📊 Output
+# 📊 Output
 Summary PDF file comparing extracted video frames
 
 SSIM/distance values between selected frames
